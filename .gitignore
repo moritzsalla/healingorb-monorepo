@@ -1,2 +1,11 @@
 
 .DS_Store
+
+# raspi flask server
+*.gz
+*.tar
+*.pem
+
+# chrome extension
+
+# blog

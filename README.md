@@ -1,4 +1,4 @@
-# Sentiment Monorepo
+# Healing Orb Monorepo
 Repo containing code and blog of my final CCI project
 
 ### Blog

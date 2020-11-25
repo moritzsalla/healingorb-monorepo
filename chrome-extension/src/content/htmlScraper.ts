@@ -6,8 +6,15 @@ export function scrapeHTML(): string {
   let bin: string = "";
 
   if (paragraphs && paragraphs.length > 0) {
+    // iterate over paragraph tags
     paragraphs.forEach((paragraph) => {
-      bin += paragraph.textContent;
+      const { textContent } = paragraph;
+      // remove special characters from string
+      if (textContent) {
+        textContent
+          .replace(/[!"\$',-\.\?\u2013\u2014\u2019\u201D\u20AC]/gi, " ")
+          .replace(/  /g, " ");
+      }
     });
   }
 

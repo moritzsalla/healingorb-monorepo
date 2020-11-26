@@ -1,4 +1,4 @@
-# Sentiment Chrome Extension
+# Chrome Extension
 
 ![Image](banner.png)
 

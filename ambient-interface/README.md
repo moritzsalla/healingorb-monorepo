@@ -1,4 +1,4 @@
-# Raspberry Pi Ambient Interface
+# Ambient Interface (Raspberry Pi)
 
 This installation provides a flask server which lets you communicate between browsers within your local network and the sense-hat. It can be used for visualizing data. In order to maintain a modular interface, the API end–points provide no functionality beyond that of the sensehat's. All processing should therefore be done on the client side.
 

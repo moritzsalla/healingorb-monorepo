@@ -4,6 +4,8 @@ Installs and runs a dockerized flask server on Raspberry Pi. This server exposes
 
 To maintain a modular interface, the API endpoints provide no functionality beyond that of the SenseHat. All processing should be done on the client-side.
 
+![Illustration](illu.png)
+
 ## Installation
 
 Connect the Raspberry Pi to your wifi through LAN or wifi, up to you.

@@ -1,4 +1,6 @@
-# Generative Typography Experiement & Analysis of RNDR Work
+# Generative Type Experiment
+
+This was an early tryout when my concept was not clear to me yet. It explores how design can be generative and react to its user.
 
 [](https://github.com/moritzsalla/tactile-poster)
 
@@ -20,7 +22,7 @@ However, there are many positive use cases one could imagine, as showing COVID "
 
 In 2019, the dutch railway company and design studio Dumbar collaborated in turning all advertising boards at the Amsterdam central station into a motion design festival.
 
-![Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/Untitled.png](Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/Untitled.png)
+![Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/Untitled.png](Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/Untitled.png)
 
 RNDR — Willem II passage
 
@@ -38,11 +40,11 @@ My experiment is built using Posenet and P5js. Through the keyframe values deriv
 
 Combining gesture driven and graphical user interfaces
 
-![Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig.jpeg](Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig.jpeg)
+![Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig.jpeg](Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig.jpeg)
 
-![Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig_1.jpeg](Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig_1.jpeg)
+![Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig_1.jpeg](Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/pflaumenessig_1.jpeg)
 
-[Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/tactile-interfaces.mov](Generative%20Typography%20Experiement%20&%20Analysis%20of%20RN%20d1f2a0939eec402fadc614378dd1b988/tactile-interfaces.mov)
+[Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/tactile-interfaces.mov](Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988/tactile-interfaces.mov)
 
 Top: weight, center: width, bottom: slant (italic)
 

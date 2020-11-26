@@ -12,6 +12,8 @@
 
 [Documentation%20e3b97d503a484fa8b20b29da8c8b024d/IMG_1920.mov](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/IMG_1920.mov)
 
+[Documentation%20e3b97d503a484fa8b20b29da8c8b024d/FullSizeRender.mov](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/FullSizeRender.mov)
+
 ## Renderings
 
 ![Documentation%20e3b97d503a484fa8b20b29da8c8b024d/project-2.png](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/project-2.png)
@@ -25,6 +27,8 @@
 ![Documentation%20e3b97d503a484fa8b20b29da8c8b024d/project-3.png](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/project-3.png)
 
 ## Photography
+
+![Documentation%20e3b97d503a484fa8b20b29da8c8b024d/IMG_2025.heic](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/IMG_2025.heic)
 
 ![Documentation%20e3b97d503a484fa8b20b29da8c8b024d/Screenshot_2020-11-25_at_21.34.53.png](Documentation%20e3b97d503a484fa8b20b29da8c8b024d/Screenshot_2020-11-25_at_21.34.53.png)
 

@@ -2,6 +2,8 @@
 
 [Initial Brainstorm](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Initial%20Brainstorm%2095d905dbfaf643bcb7a44f3617e3c2ce.md)
 
+[Generative Type Experiment](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Generative%20Type%20Experiment%20d1f2a0939eec402fadc614378dd1b988.md)
+
 [Supervisor Application](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Supervisor%20Application%20a7734a9fc4914a9aacfe60fc90e7078f.md)
 
 [Revised Concept](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Revised%20Concept%20e953a60309ab4265b102f3d7eb668f5a.md)

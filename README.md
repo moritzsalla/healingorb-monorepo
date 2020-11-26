@@ -4,6 +4,9 @@ Repository containing the code and blog of my submission. My project consists of
 ### Blog
 Markdown files, sorted by topic. Best viewed on Github.
 
+28 entires  
+15.640 words
+
 ### Chrome Extension
 Contains the code for the chrome extension. Uses the parcel bundler to transcribe typescript and the react based popup. Typescript.
 

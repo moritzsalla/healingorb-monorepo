@@ -1,16 +1,16 @@
 # Research into Digital Wellbeing
 
+![Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/screen-time.png](Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/screen-time.png)
+
+## Resources
+
 [Health Design Thinking](https://mitpress.mit.edu/books/health-design-thinking)
 
 [How to run your first digital wellbeing design workshop](https://uxdesign.cc/how-to-run-your-first-digital-wellbeing-design-workshop-b0dba1867550)
 
 [](http://motrin.media.mit.edu/mentalhealth/wp-content/uploads/sites/15/2019/04/CMH2019_paper_41.pdf)
 
-![Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/screen-time.png](Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/screen-time.png)
-
 [https://youtu.be/qIk4cdgSdG8](https://youtu.be/qIk4cdgSdG8)
-
-![Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/Untitled.png](Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/Untitled.png)
 
 # Imran Chaidhri, Humane
 
@@ -98,13 +98,9 @@ Using adaptive (Machine-learning based) interfaces to to counter intellectual is
 - Changing the way we perceive our **virtual environment**
 - **Perception**
 
-## Filter bubbles
-
-*intellectual isolation*
+## Counteragent
 
 [](https://en.wikipedia.org/wiki/Filter_bubble)
-
-## Counteragent
 
 ***Counteragent* (filter algorithm vs creational algorithm).** Chrom plugin sensorship curation?
 
@@ -188,3 +184,5 @@ Mapping the filter bubble on a 2D / 3D plane (D3.js)
 
 - Should everybody have the same search results? Duckduckgo.
 - Is exposure to opposing viewpoints enough?
+
+![Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/Untitled.png](Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc/Untitled.png)

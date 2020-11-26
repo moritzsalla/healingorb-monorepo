@@ -4,15 +4,15 @@ A chrome extension that communicates with the Healing Orb's ambient interface. I
 
 ![Image](banner.png)
 
-## Data Flow
-
-![Illustration](illu.png)
-
 ## Development
 
 Run `yarn build` to bundle files into a chrome build  
 Run `yarn clean` to format using prettify and remove cache + dist folders  
 Run `yarn post-build` to compress the build into a zip
+
+## Data Flow
+
+![Illustration](illu.png)
 
 ## Certificate Issues on Chrome
 

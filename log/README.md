@@ -1,4 +1,4 @@
-# Blog
+# Log
 
 [Concept](Blog%207a6cef0fe837494583dbcb3e08354ab0/Concept%20fc6eb739cd9f4790936dce69f4e4d18b.md)
 

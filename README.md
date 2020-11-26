@@ -3,7 +3,7 @@
 # Healing Orb
 Repository containing the code and blog of my submission. My project consists of two parts (chrome extension and ambient interface), and hence has two code repositories.
 
-### Blog
+### Log
 Markdown files, sorted by topic. Best viewed on Github.
 
 28 entires  

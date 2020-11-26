@@ -10,7 +10,7 @@
 
 [RunwayML tryouts](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/RunwayML%20tryouts%2009b94291395c42db935d5bade18505db.md)
 
-[Research on Human-Computer Interaction](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20on%20Human-Computer%20Interaction%200b7fcba9016f4f16b82e4308b5c9d5a9.md)
+[Research Human-Computer Interaction](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20on%20Human-Computer%20Interaction%200b7fcba9016f4f16b82e4308b5c9d5a9.md)
 
 [Review: Is Technology Making Us Sick?](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Review%20Is%20Technology%20Making%20Us%20Sick%20d9d3379dded14d9599031184a430daf8.md)
 

@@ -6,7 +6,7 @@ A chrome extension that communicates with the Healing Orb's ambient interface. I
 
 ## Data Flow
 
-![illu.png]()
+![Illustration](illu.png)
 
 ## Development
 

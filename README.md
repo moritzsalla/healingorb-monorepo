@@ -1,11 +1,11 @@
-# Healing Orb Monorepo
-Repo containing code and blog of my final CCI project
+# Healing Orb
+Repository containing the code and blog of my submission. My project consists of two parts (chrome extension and ambient interface), and hence has two code repositories.
 
 ### Blog
-Sorted by topic.
+Markdown files, sorted by topic. Best viewed on Github.
 
 ### Chrome Extension
-Contains the code for the chrome extension. Uses the parcel bundler to transcribe typescript and the react based popup.
+Contains the code for the chrome extension. Uses the parcel bundler to transcribe typescript and the react based popup. Typescript.
 
-### Lamp Server
-Contains docker image and code for a flask server. Said exposes an API that directly maps string queries to the sensehat's API.
+### Healing Orb
+Contains docker image and code for a flask server. Said exposes an API that directly maps string queries to the sensehat's API. Python.

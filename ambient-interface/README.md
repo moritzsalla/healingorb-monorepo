@@ -1,13 +1,15 @@
 # Ambient Interface (Raspberry Pi)
 
-This installation provides a flask server which lets you communicate between browsers within your local network and the sense-hat. It can be used for visualizing data. In order to maintain a modular interface, the API end–points provide no functionality beyond that of the sensehat's. All processing should therefore be done on the client side.
+Installs and runs a dockerized flask server on Raspberry Pi. This server exposes API, which gives clients (browsers) remote access to the Healing Orb's LED pannel via the local network.
+
+To maintain a modular interface, the API endpoints provide no functionality beyond that of the SenseHat. All processing should be done on the client-side.
 
 ## Installation
 
 Connect the Raspberry Pi to your wifi through LAN or wifi, up to you.
 
-### Docker
-
+### Docker (preferred)
+rs
 Make sure you have docker installed.
 
 ```

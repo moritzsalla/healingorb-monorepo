@@ -1,6 +1,4 @@
-# Research: Colour Theory
-
-[How Pixar worked emotions 'Inside Out'](https://eu.usatoday.com/story/life/movies/2015/06/18/pixar-inside-out-making-the-emotions-characters/28648779/)
+# Research Colour Theory
 
 ## Review: The Politics of Design
 
@@ -105,7 +103,9 @@ Neutral. Moody. Depressing. Conservative. Formal. Modern. Corporate. Professiona
 - relaxing
 - reserved
 
-![Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Untitled%201.png](Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Untitled%201.png)
+![Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/2552_ColoursInCulture-3.png](Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/2552_ColoursInCulture-3.png)
+
+### Generalised Meaning
 
 **Red**: danger, alert
 
@@ -119,3 +119,15 @@ Neutral. Moody. Depressing. Conservative. Formal. Modern. Corporate. Professiona
 HIGH —-—————— MEDIUM ———————— LOW
 Red           Orange        Blue/Green
 ```
+
+## Cultural References
+
+![Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Untitled%201.png](Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Untitled%201.png)
+
+[How Pixar worked emotions 'Inside Out'](https://eu.usatoday.com/story/life/movies/2015/06/18/pixar-inside-out-making-the-emotions-characters/28648779/)
+
+![Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/orbs.jpg](Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/orbs.jpg)
+
+Rob and Nick Carter — Orbs
+
+[Rob and Nick Carter - Orbs - RN1214 - Blue Orb](http://www.robandnick.com/rn1214-blue-orb)

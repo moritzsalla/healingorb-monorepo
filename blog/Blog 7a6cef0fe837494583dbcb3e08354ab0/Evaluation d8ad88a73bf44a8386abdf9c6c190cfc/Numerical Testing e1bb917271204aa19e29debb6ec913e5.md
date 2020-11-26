@@ -67,3 +67,9 @@ How can I test not only numerically, but holistically? (cultural context determi
 What makes something a good model in the context of my application? Raw accuracy vs mistakes
 
 Coming up with own dataset might not be as useful
+
+## Deductions
+
+- Scraping does not take length of text into account
+
+How will I measure effectiveness?

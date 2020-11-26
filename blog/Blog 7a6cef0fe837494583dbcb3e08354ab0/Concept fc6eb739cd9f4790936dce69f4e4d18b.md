@@ -1,23 +1,21 @@
 # Concept
 
-[Brainstorm](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Brainstorm%2095d905dbfaf643bcb7a44f3617e3c2ce.md)
+[Initial Brainstorm](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Initial%20Brainstorm%2095d905dbfaf643bcb7a44f3617e3c2ce.md)
 
 [Supervisor Application](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Supervisor%20Application%20a7734a9fc4914a9aacfe60fc90e7078f.md)
 
-[Research: Human-Computer Interaction](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20Human-Computer%20Interaction%200b7fcba9016f4f16b82e4308b5c9d5a9.md)
+[Revised Concept](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Revised%20Concept%20e953a60309ab4265b102f3d7eb668f5a.md)
 
-[Testing RunwayML](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Testing%20RunwayML%2009b94291395c42db935d5bade18505db.md)
+[RunwayML tryouts](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/RunwayML%20tryouts%2009b94291395c42db935d5bade18505db.md)
 
-[Reading: How to Speak Machine, John Maeda](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Reading%20How%20to%20Speak%20Machine,%20John%20Maeda%20b52ac20960ce4ddcbfd3e64eefbc46a5.md)
+[Research on Human-Computer Interaction](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20on%20Human-Computer%20Interaction%200b7fcba9016f4f16b82e4308b5c9d5a9.md)
 
-[Research: Digital Wellbeing](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc.md)
+[Review: Is Technology Making Us Sick?](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Review%20Is%20Technology%20Making%20Us%20Sick%20d9d3379dded14d9599031184a430daf8.md)
 
-[Training a ML model](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Training%20a%20ML%20model%20e671854620c24ea8a380610674a05515.md)
+[Internet & Psychology](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Internet%20&%20Psychology%20f2c5b835162c4a0187ad2eee45e159ba.md)
 
-### Concept
+[Research into Digital Wellbeing](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Research%20into%20Digital%20Wellbeing%20abd5f76512ba4066bcbb09bca79497dc.md)
 
-- I've been thinking about making an IoT device which helps the user track his/her digital mental health
-- Consists of two parts:
-    - **Chrome extension** that scrapes website for certain characteristics such as sentiment, political affiliation, filter bubble
-    - **Physical device** that supplies feedback/summary about behaviour
-- Difference to regular screen time app: uses machine learning to give insight into the content of a session, not duration or category
+[Pandora, an Internet of Things](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/Pandora,%20an%20Internet%20of%20Things%207f9c7121a957431cb47f59ee1b2db74c.md)
+
+[John Maeda on Telemetry](Concept%20fc6eb739cd9f4790936dce69f4e4d18b/John%20Maeda%20on%20Telemetry%20b52ac20960ce4ddcbfd3e64eefbc46a5.md)

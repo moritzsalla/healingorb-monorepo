@@ -1,9 +1,9 @@
 # Chrome Extension
 
-[User Interface](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/User%20Interface%205e1bb772fb104e218ef5996033f42634.md)
+[Scraping Website Content](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Scraping%20Website%20Content%20d4c6113e1bcd48d0a7323834a2b2bf7a.md)
 
-[Sentiment Analysis](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Sentiment%20Analysis%20910ccb0eeefc4e6d81dada7f36cf1de2.md)
+[Training](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Training%20e671854620c24ea8a380610674a05515.md)
 
-[Reading: Machine Learning](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Reading%20Machine%20Learning%205f8f7a817ce74abb85154aafcc80fe6c.md)
+[Technical Implementation](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Technical%20Implementation%20e16529c0639d4f8abe31eddb21707e16.md)
 
-[Functionality](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Functionality%20d304e259010e43c4963ce8d715596430.md)
+[Popup UI](Chrome%20Extension%208acb52e33e3342e5af2b51f81737a9af/Popup%20UI%205e1bb772fb104e218ef5996033f42634.md)

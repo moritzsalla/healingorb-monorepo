@@ -1,0 +1,9 @@
+# Pandora, an Internet of Things
+
+![Pandora,%20an%20Internet%20of%20Things%207f9c7121a957431cb47f59ee1b2db74c/Untitled.png](Pandora,%20an%20Internet%20of%20Things%207f9c7121a957431cb47f59ee1b2db74c/Untitled.png)
+
+In the movie Avatar (James Cameron, 2009), humans colonise the terrifying and beautiful planet Pandora. Their goal is not to inhabit, but to deplete it of its rare unobtanium reserves, a fictional superconducting mineral. The mother tree, a giant willow-like tree, is the native's ecosystem and their spiritual center. A fight between the planet's natives and its intruders unleashes.
+
+In its concept, the planet of Pandora closely resembles the internet of things. It is vision of the primitive beginnings of humanity and its distant technological future in one. Everything on Pandora is seemingly interconnected, one can even dock to animals in USB stick like fashion. Within the roots of the mother tree lies the depth of the internet, in which everything is saved, which keeps everything alive. When humans start to attack it, therefore, the ecology slowly starts to die. All natives, all trees and animals are nodes of the internet, internet of things.
+
+The idea of an extended somatic, the internet itself is like the central nervous system. It has a distributed brain and nerve like protocols that ensure communication. And with the creation of tools, we also outsource ourselves. Just like the bike is an extension of our feet and the hammer of our fists, the internet has become our extended nervous system. Why, at some point, wouldn't we outsource our health? And if this sounds too extravagant of a concept, it still serves as a valid mind game of how we deal with our (mental) healths in the future.

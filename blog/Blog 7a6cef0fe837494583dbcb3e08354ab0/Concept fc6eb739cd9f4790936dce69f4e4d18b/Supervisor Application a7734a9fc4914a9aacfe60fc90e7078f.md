@@ -10,9 +10,15 @@ I have an interest in not only exploring it technically but also approaching it 
 
 As a side tangent, I want to get deeper into the theories of user experience design, as it is a **systematic approach to studying human behaviour in relation to computer interfaces**
 
-# Rebecca's feedback
+### Revised
 
-## Sources
+- I've been thinking about making an IoT device which helps the user track his/her digital mental health
+- Consists of two parts:
+    - **Chrome extension** that scrapes website for certain characteristics such as sentiment, political affiliation, filter bubble
+    - **Physical device** that supplies feedback/summary about behaviour
+- Difference to regular screen time app: uses machine learning to give insight into the content of a session, not duration or category
+
+## Rebecca's feedback
 
 ### Papa Sangre
 
@@ -56,6 +62,10 @@ Research project with Phoenix Perry and others bringing interactive machine lear
 - ACM SIGACCESS Conference on Computers and Accessibility
 
     [HOME | ACM ASSETS 2019 - Pittsburgh, PA, USA (October 28 - 30, 2019)](https://assets19.sigaccess.org/)
+
+    [The Race Towards Digital Wellbeing | Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/3290605.3300616)
+
+    [https://www.youtube.com/watch?v=ZG7e1-4oAkI&feature=youtu.be](https://www.youtube.com/watch?v=ZG7e1-4oAkI&feature=youtu.be)
 
 - ACM SIGGRAPH, Association for Computing Machinery
 

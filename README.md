@@ -7,5 +7,5 @@ Markdown files, sorted by topic. Best viewed on Github.
 ### Chrome Extension
 Contains the code for the chrome extension. Uses the parcel bundler to transcribe typescript and the react based popup. Typescript.
 
-### Healing Orb
+### Ambient Interface
 Contains docker image and code for a flask server. Said exposes an API that directly maps string queries to the sensehat's API. Python.

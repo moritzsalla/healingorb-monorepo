@@ -1,14 +1,13 @@
 # Healing Orb
-Repository containing the code and blog of my submission. My project consists of two parts (chrome extension and ambient interface), and hence has two code repositories.
+This repository contains the code and log of my submission. My project consists of two parts (chrome extension and ambient interface), and hence is split into two seperate code repositories.
 
 ### Log
 Markdown files, sorted by topic. Best viewed on Github.
 
-28 entires  
-15.640 words inc. code
+28 entires
 
 ### Chrome Extension
-Contains the code for the chrome extension. Uses the parcel bundler to transcribe typescript and the react based popup. Typescript.
+Contains the code for the chrome extension.
 
 ### Ambient Interface
-Contains docker image and code for a flask server. Said exposes an API that directly maps string queries to the SenseHat's API. Python.
+Contains docker image and code for Raspberry Pi.

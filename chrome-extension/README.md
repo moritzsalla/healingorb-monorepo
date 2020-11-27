@@ -1,6 +1,6 @@
 # Chrome Extension
 
-A chrome extension that communicates with the Healing Orb's ambient interface. It is the head of the Healing Orb, as it performs the processing and animation. The extension's processing tasks include HTML scraping, string filtration, storage, mapping and easing. The extension also includes a popup which exposes readings and settings to the user.
+A chrome extension that communicates with the Healing Orb's ambient interface. It is the head of the Healing Orb, performing processing and animation of data.
 
 ![Image](banner.png)
 
@@ -15,6 +15,8 @@ Run `yarn post-build` to compress the build into a zip
 Chrome doesn't accept self-signed certificate issues. Read more [here](https://stackoverflow.com/a/58957322/10653440). To allowlist your Raspberry Pi's IP address, type `thisisunsafe` when Chrome throws an error screen. This is likely to be the reason if the Raspberry Pi is not responding. Please check your developer console regularly, Chrome's behavior is sporadic.
 
 ## Data Flow
+
+The extension's processing tasks include HTML scraping, string filtration, storage, mapping and easing. The extension also includes a popup which exposes readings and settings to the user.
 
 ![Illustration](illu.png)
 

@@ -1,4 +1,0 @@
-This ZIP contains my thesis.
-
-My submission's code and blog (in markdown format) are hosted in a Github repository: 
-https://github.com/moritzsalla/healingorb-monorepo

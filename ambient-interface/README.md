@@ -1,8 +1,8 @@
 # Ambient Interface (Raspberry Pi)
 
-Installs and runs a dockerized flask server on Raspberry Pi. This server exposes API, which gives clients (browsers) remote access to the Healing Orb's LED pannel via the local network.
+Installs and runs a dockerized flask server on Raspberry Pi. This server exposes API that gives clients remote access to the Healing Orb's LED pannel via the local network.
 
-To maintain a modular interface, the API endpoints provide no functionality beyond that of the SenseHat. All processing should be done on the client-side.
+To maintain a modular interface, the API endpoints provide no functionality beyond that of the SenseHat's. All data processing is done on the client-side.
 
 ![Illustration](illu.png)
 
@@ -11,7 +11,7 @@ To maintain a modular interface, the API endpoints provide no functionality beyo
 Connect the Raspberry Pi to your wifi through LAN or wifi, up to you.
 
 ### Docker (preferred)
-rs
+
 Make sure you have docker installed.
 
 ```
@@ -77,13 +77,13 @@ $ hostname -I
 Navigate to this address. The installation has been successful if you see your Raspberry Pi flashing up.
 
 ```
-http://127.0.0.1:8000/test
+http://{RASPI_IP}/test
 ```
 
 Open this page from browser in your local network. The site will provide you an overview of the API.
 
 ```
-http://127.0.0.1:8000/
+http://{RASPI_IP}:8000/
 ```
 
 # Folder structure

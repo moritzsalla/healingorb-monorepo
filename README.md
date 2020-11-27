@@ -4,7 +4,8 @@ This repository contains the code and log of my submission. My project consists 
 ### Log
 Markdown files, sorted by topic. Best viewed on Github.
 
-28 entires
+28 entires  
+~15.000 words inc. code
 
 ### Chrome Extension
 Contains the code for the chrome extension.

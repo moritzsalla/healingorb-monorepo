@@ -26,7 +26,6 @@ The extension's processing tasks include HTML scraping, string filtration, stora
 .
 ├── background.js
 ├── content.ts
-├── firebase-client.ts
 ├── images
 │   ├── favicon.png
 │   ├── favicon@2x.png

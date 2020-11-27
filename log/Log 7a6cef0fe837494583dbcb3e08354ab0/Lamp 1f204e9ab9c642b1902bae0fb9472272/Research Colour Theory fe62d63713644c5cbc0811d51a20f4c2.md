@@ -131,3 +131,5 @@ Red           Orange        Blue/Green
 Rob and Nick Carter — Orbs
 
 [Rob and Nick Carter - Orbs - RN1214 - Blue Orb](http://www.robandnick.com/rn1214-blue-orb)
+
+![Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Screenshot_2020-11-25_at_21.34.53.png](Research%20Colour%20Theory%20fe62d63713644c5cbc0811d51a20f4c2/Screenshot_2020-11-25_at_21.34.53.png)

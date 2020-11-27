@@ -12,7 +12,7 @@ Run `yarn post-build` to compress the build into a zip
 
 ## Certificate Issues on Chrome
 
-Chrome doesn't accept self-signed certificate issues. Read more [here](https://stackoverflow.com/a/58957322/10653440). To allowlist `https://192.168.0.24/`, type `thisisunsafe` when faced with the error screen. This is likely to be the reason if the Raspberry Pi is not responding. Please check your developer console regularly, Chrome's behavior is sporadic.
+Chrome doesn't accept self-signed certificate issues. Read more [here](https://stackoverflow.com/a/58957322/10653440). To allowlist your Raspberry Pi's IP address, type `thisisunsafe` when Chrome throws an error screen. This is likely to be the reason if the Raspberry Pi is not responding. Please check your developer console regularly, Chrome's behavior is sporadic.
 
 ## Data Flow
 
